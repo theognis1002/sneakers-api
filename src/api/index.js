@@ -11,6 +11,8 @@ router.get("/", (req, res) => {
 	});
 });
 
+console.log("test");
+
 router.use("/emojis", emojis);
 router.use("/sneakers", sneakers);
 module.exports = router;
