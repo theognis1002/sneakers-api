@@ -1,4 +1,4 @@
-# Express API Starter
+# Sneakers API (ExpressJS)
 
 Includes API Server utilities:
 g
